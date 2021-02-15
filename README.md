@@ -1,4 +1,5 @@
-# E-commerce
+# E-commerce and Sorry for any issues 
+THIS is my first Django web application
 Python Django E-commerce web site example
 Steps:
 1. pip install virtualenv
